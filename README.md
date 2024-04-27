@@ -78,11 +78,11 @@ plt.show()
 
 
 ### Canny Edge detector output
-![image](https://github.com/Goutham2306/Edge-Linking-using-Hough-Transformm/assets/138971154/d67ba30e-3d4b-4920-a55b-45042a44bda7)
+![image](https://github.com/Goutham2306/Edge-Linking-using-Hough-Transformm/assets/138971154/62ca8166-17d4-41a3-aa25-017f373aa90a)
 
 
 ### Display the result of Hough transform
-![image](https://github.com/Goutham2306/Edge-Linking-using-Hough-Transformm/assets/138971154/19d96a04-b7b6-416c-87af-4f09216e5e81)
+![image](https://github.com/Goutham2306/Edge-Linking-using-Hough-Transformm/assets/138971154/53937b80-40af-4aaa-8fef-61eff9239dc0)
 
 ### Result:
 Thus the program is written with python and OpenCV to detect lines using Hough transform and Executed Successfully.

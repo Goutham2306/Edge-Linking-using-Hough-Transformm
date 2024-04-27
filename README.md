@@ -78,7 +78,7 @@ plt.show()
 
 
 ### Canny Edge detector output
-![image](https://github.com/Goutham2306/Edge-Linking-using-Hough-Transformm/assets/138971154/4b219c8e-cf98-4671-b6e5-63fb170b0db8)
+![image](https://github.com/Goutham2306/Edge-Linking-using-Hough-Transformm/assets/138971154/d67ba30e-3d4b-4920-a55b-45042a44bda7)
 
 
 ### Display the result of Hough transform
